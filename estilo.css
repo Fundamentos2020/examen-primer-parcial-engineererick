@@ -1,0 +1,46 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 8px;
+    border: black;
+    background-color: yellow;
+}
+
+.menu{
+    display: inline;
+    padding: 20px;
+}
+
+h1{
+    color: black;
+    text-align: center;
+}
+
+p{
+    color: black;
+    text-align: justify;
+    text-indent: 25px;
+}
+
+hr{
+    width: 400px;
+}
+
+.parrF {
+    text-align: center;
+    font-family: 'Times New Roman';
+}
+
+.logos{
+    background-image:url("uaslp_logo.jpg");
+    width: 15%;
+    align-content: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+.formulario{
+    height: 15px;
+}
